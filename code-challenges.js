@@ -157,4 +157,4 @@ var pacman = ["Inky", "Blinky", "Pinky", "Clyde"]
 // need to split the strings
 // need to identfy the last letter.... .push() maybe?
 // i need to remove it
-// i need a return with the last letter removed 
+// i need a return with the last letter removed .....
